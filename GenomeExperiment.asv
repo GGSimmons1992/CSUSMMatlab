@@ -1,0 +1,7 @@
+%GenomeExperiment
+clc;close all;clear
+GenomeGenesis()
+parent1
+%cross overs (exponentials)
+
+
